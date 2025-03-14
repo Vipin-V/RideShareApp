@@ -1,0 +1,2 @@
+/home/hacker/Downloads/TuShare-main/android/app/.cxx/Debug/5b132360/x86_64/CMakeFiles/edit_cache.dir
+/home/hacker/Downloads/TuShare-main/android/app/.cxx/Debug/5b132360/x86_64/CMakeFiles/rebuild_cache.dir
